@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": " ",
+    "author": " ",
+    "templateModule": false,
+    "i18n": false,
+    "componentPackager": "bower",
+    "cssModule": false,
+    "jsModule": false,
+    "useJson": null
+  }
+}

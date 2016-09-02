@@ -1,0 +1,18 @@
+{
+  "name": "arqsistemas",
+  "description": " ",
+  "main": "index.js",
+  "author": " ",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ]
+}
